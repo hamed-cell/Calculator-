@@ -8,10 +8,6 @@
 
 <br>
 
-[![Stable Release](https://img.shields.io/npm/v/formik.svg)](https://npm.im/formik)
-[![Blazing Fast](https://badgen.now.sh/badge/speed/blazing%20%F0%9F%94%A5/green)](https://npm.im/formik)
-[![gzip size](http://img.badgesize.io/https://unpkg.com/formik@latest/dist/formik.esm.js?compression=gzip)](https://unpkg.com/formik@latest/dist/formik.esm.js)
-[![Discord](https://img.shields.io/discord/769256827007139912.svg?style=flat-square)](https://discord.gg/pJSg287)
 
 **Visit [https://main--formidable-doc.netlify.app](https://main--formidable-doc.netlify.app) to get started with Formidable.**
 
