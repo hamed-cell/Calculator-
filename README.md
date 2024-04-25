@@ -8,18 +8,7 @@
 
 <br>
 
-
 **Visit [https://main--formidable-doc.netlify.app](https://main--formidable-doc.netlify.app) to get started with Formidable.**
-
-
-## Authors
-
-- Hamed Attar [@Hamed-ATTAR](https://www.linkedin.com/in/attar-hamed/)
-- messaoud Zouggab [@Messaoud](https://www.linkedin.com/in/messaoud-zouggab/)
-- Sharmake Awil [@Sharmake](https://www.linkedin.com/in/sharmake-awil-57ba2043/)
-
-
-## Contributing
 
 # Welcome to the documentation for the FORMI-DABLE project!
 
@@ -45,8 +34,13 @@ To start using this form library, follow these steps:
 
    Open http://localhost:3000 to view it in your browser.
 
+## Authors
 
-## Contributors
+- Hamed Attar [@Hamed-ATTAR](https://www.linkedin.com/in/attar-hamed/)
+- Messaoud Zouggab [@Messaoud](https://www.linkedin.com/in/messaoud-zouggab/)
+- Sharmake Awil [@Sharmake](https://www.linkedin.com/in/sharmake-awil-57ba2043/)
+
+## Contributing
 
 🌟 Formidable was made possible by these awesome people 👏:
 
@@ -91,8 +85,6 @@ To start using this form library, follow these steps:
 
 This project was developed as part of a course-related project at Wild Code School. For more details about the project topic, check out [this document](https://hackmd.io/@iSk4huYHT5Cv8DZxkMrNEw/H1aHQkhy0#Bibliothère-React-Form).
 
-
 ## Related
 
 This README was authored by [Hamed Attar](https://www.linkedin.com/in/attar-hamed/) ✍️.
-
